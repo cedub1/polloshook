@@ -19,7 +19,7 @@ Welcome to Polloshook.
 To bind the ClickGUI, use the following command in the game console:
 ```plaintext
 ,bind clickgui <letter>
-
+```
 ## Need Help?
 
 If you encounter any issues during the setup, feel free to reach out to us via the following platforms:
